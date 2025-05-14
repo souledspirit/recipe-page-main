@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/souledspirit/recipe-page-main)
-- Live Site URL: [Add live site URL here](https://souledspirit.github.io/recipe-page-main)
+- Live Site URL: [Fm-recipe-page](https://souledspirit.github.io/recipe-page-main)
 
 ## My process
 
